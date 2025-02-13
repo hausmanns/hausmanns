@@ -3,7 +3,7 @@
 [![Linkedin: SebHausmann](https://img.shields.io/badge/-SebHausmann-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ghazi-khan/)](https://www.linkedin.com/in/sebastien-hausmann-neuroengineer/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/DeepLabCut.svg?label=SebHausmann&style=social)](https://x.com/SebHausmann)
 
-🎓 PhD Candidate @ EPFL | 🧠 Neuroscientist | 💻 Data-Driven Innovator
+🎓 PhD from EPFL since 2025 | 🧠 Neuroscientist | 💻 Data-Driven Innovator
 
 I’m passionate about studying motor control and adaptation using advanced neuroengineering techniques. 
 I rencently graduated from Mackenzie Mathis’ Laboratory at EPFL, where I spearheaded cutting-edge VR setups for mice and study the neural mechanisms underlying visuomotor adaptation.
