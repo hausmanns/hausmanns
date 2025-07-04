@@ -8,11 +8,11 @@
 I’m passionate about studying motor control and adaptation using advanced neuroengineering techniques. 
 I recently graduated from Mackenzie Mathis’ Laboratory at EPFL, where I spearheaded cutting-edge VR setups for mice and study the neural mechanisms underlying visuomotor adaptation.
 
-Currently, I am teaching enhancing my expertise in applied AI, teaching a full semester course at [IFAGE - by ImpactAI](https://www.ifage.ch/formation/tic/intelligence-artificielle/developpeur-dintelligence-artificielle-appliquee/?attribute_pa_session=s-00903), guiding students through real-world AI projects.
+Currently, I am teaching an applied AI full semester course at [IFAGE - by ImpactAI](https://www.ifage.ch/formation/tic/intelligence-artificielle/developpeur-dintelligence-artificielle-appliquee/?attribute_pa_session=s-00903), guiding students through real-world AI projects.
 
 🔬 My work involves:
 
-- 🧑‍💻 Programming: Python, C#, C++, and more
+- 🧑‍💻 Programming: Python, C#, C++, React, Nodejs
 - 🧠 Neuroscience research: Optogenetics, neural circuits, behavioral analysis
 - 🎮 Virtual Reality development for neuroscience applications
 - 📊 Advanced data analysis and machine learning
